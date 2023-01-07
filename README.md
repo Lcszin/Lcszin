@@ -15,7 +15,7 @@
   <img align="center" alt="lcs-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="lcs-cpl" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="lcs-csp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-<img align="right" alt="lcs-pic" height="150" style="border-radius:50px;" src="/ayaka-pic.jpg">
+<img align="right" alt="lcs-pic" height="150" style="border-radius:50px;" src="ayaka-pin.jpg">
 </div>
   
   ##
