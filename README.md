@@ -6,13 +6,17 @@
 <hr/>
 <div>
   <a >
-    <img align="center" heigth="150em" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a >
-    <img align="center" heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcszin&layout=compact&langs_count=16&theme=tokyonight"/>
+  
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcszin&repo=convoychat&layout=compact&langs_count=16&theme=tokyonight" />
   </a>
+  
 </div>
+
 <hr/>
+
 <div>
   <img align="center" alt="lcs-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="lcs-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
