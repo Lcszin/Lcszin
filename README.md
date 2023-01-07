@@ -5,11 +5,11 @@
 <h3>Estagiário em desenvolvimento de sistemas (back-end).</h3>
 <hr/>
 <div>
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a >
+    <img align="center" heigth="150em" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcszin&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a >
+    <img align="center" heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcszin&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
 <hr/>
