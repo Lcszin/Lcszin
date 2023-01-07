@@ -1,9 +1,9 @@
 <h1>Oi, eu sou o Lucas.</h1>
 <h3>Sou estudante de Ciência da computação.</h3>
 <h3>Estagiário em desenvolvimento de sistemas (back-end).</h3>
-<div>
+<div align="center">
  <a href="https://github.com/lcszin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&repo"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&repo"/>
 </div>
 
 <div>
