@@ -4,8 +4,8 @@
 <h3>Sou estudante de Ciência da computação.</h3>
 <h3>Estagiário em desenvolvimento de sistemas (back-end).</h3>
 <div>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcszin&layout=compact&langs_count=16&theme=tokyonight"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcszin&layout=compact&langs_count=16&theme=tokyonight"/>  
 </div>
 <div>
   <img align="center" alt="lcs-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
