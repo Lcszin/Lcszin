@@ -6,7 +6,7 @@
   <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&include_all_commits=true&theme=tokyonight&repo&count_private=true"/>
  </a>
  <a href="https://github.com/lcszin">
-  <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcszin&layout=compact&theme=tokyonight&repo&langs_count=10"/>
+  <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lcszin&layout=compact&theme=tokyonight&repo&langs_count=10"/>
  </a>
 </div>
 
