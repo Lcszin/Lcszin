@@ -1,6 +1,6 @@
 <h1>Oi, eu sou o Lucas.</h1>
 <h3>Estudante de Ciência da computação.</h3>
-<h3>Estagiário em desenvolvimento de sistemas (full-stack).</h3>
+<h3>Estagiário em desenvolvimento de sistemas Web (full-stack).</h3>
 <div align="center">
  <a href="https://github.com/lcszin">
   <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&include_all_commits=true&theme=tokyonight&repo&count_private=true"/>
