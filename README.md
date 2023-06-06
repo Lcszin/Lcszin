@@ -3,7 +3,7 @@
 <h3>Estagiário em desenvolvimento de sistemas Web (full-stack).</h3>
 <div align="center">
  <a href="https://github.com/lcszin">
-  <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&include_all_commits=true&theme=tokyonight&repo&count_private=true"/>
+  <img heigth="200em" align="top" src="https://github-readme-stats.vercel.app/api?username=lcszin&show_icons=true&theme=tokyonight&repo&count_private=true"/>
  </a>
  <a href="https://github.com/lcszin">
   <img heigth="200em" align="topr" src="https://github-readme-stats.vercel.app/api/top-langs?username=lcszin&layout=compact&theme=tokyonight&repo&langs_count=10"/>
